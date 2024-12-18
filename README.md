@@ -1,0 +1,1 @@
+# GOPANG-microservice-config
